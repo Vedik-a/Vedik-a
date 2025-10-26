@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Vedika
-- Join me in my exiting journey on github
-  
+👋 Hi, I’m Vedika — someone who loves mixing creativity with logic! I enjoy diving into data, discovering cool patterns, and turning them into insights that actually make sense. On the tech side, I use HTML, CSS, and JavaScript to bring ideas to life and build websites that look great and work seamlessly. I’m super passionate about UI and UX design, making sure every interface feels intuitive and enjoyable to use. I also love challenging myself with Data Structures and Algorithms — solving tricky problems keeps my brain sharp! I’m always learning, experimenting, and finding new ways to connect data, design, and development into something meaningful and exciting. 🚀
